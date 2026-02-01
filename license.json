@@ -1,5 +1,5 @@
 {
   "authorized": true,
-  "keys": [],
-  "blacklist": ["A"]
+  "keys": ["A"],
+  "blacklist": []
 }
